@@ -22,11 +22,6 @@ header {
     padding: 10px;
 }
 
-main {
-    display: flex;
-    justify-content: space-around;
-}
-
 .card {
     background-color: #2e282a;
     width: 340px;
