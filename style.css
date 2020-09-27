@@ -6,7 +6,6 @@
 body {
     font-family: MarkPro-Bold, sans-serif-bold, sans-serif;
     text-align: center;
-    color: white;
 }
 
 h1, h2 {
@@ -19,19 +18,8 @@ p {
 
 header {
     background-color: #2e282a;
+    color: white;
     padding: 10px;
-}
-
-.card {
-    background-color: #2e282a;
-    width: 340px;
-    margin: 60px 0;
-    padding: 20px 0;
-    box-shadow: 10px 10px 16px -4px black;
-}
-
-.card p {
-    font-weight: bold;
 }
 
 img {
