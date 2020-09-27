@@ -17,9 +17,8 @@ p {
     padding: 10px 20px;
 }
 
-header, footer {
+header {
     background-color: #2e282a;
-    text-shadow: none;
     padding: 10px;
 }
 
@@ -30,34 +29,14 @@ main {
 }
 
 .card {
+    background-color: #2e282a;
     width: 340px;
     margin: 60px 0;
     padding: 20px 0;
     box-shadow: 10px 10px 16px -4px black;
 }
 
-.card img {
+img {
     width: 300px;
     height: 300px;
-}
-
-.blue {
-    width: 340px;
-    margin: 60px 0;
-    padding: 20px 0;
-    background-color: #17bebb;
-}
-
-.red {
-    width: 340px;
-    margin: 60px 0;
-    padding: 20px 0;
-    background-color: #e4572e;
-}
-
-.green {
-    width: 340px;
-    margin: 60px 0;
-    padding: 20px 0;
-    background-color: #76b041;
 }
