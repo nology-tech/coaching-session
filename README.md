@@ -111,5 +111,6 @@ After the coaching is complete, the student will complete a small assessment and
 
 **Final challenge**
 
-- The student has 15 minutes to complete the form at [This link]()
-- Please complete the form at [This link]()
+- The student has 15 minutes to complete the form at [This link](https://forms.gle/jwFzN4BTRXHbbDAd6)
+- Please complete the form at [This link](
+https://forms.gle/HDrLATiqRgtw3dv3A)
