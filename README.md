@@ -111,6 +111,6 @@ After the coaching is complete, the student will complete a small assessment and
 
 **Final challenge**
 
-- The student has 15 minutes to complete the form at [This link](https://forms.gle/jwFzN4BTRXHbbDAd6)
-- Please complete the form at [This link](
-https://forms.gle/HDrLATiqRgtw3dv3A)
+- The student has 15 minutes to complete the form at [This link](https://forms.office.com/Pages/ResponsePage.aspx?id=kx3uZ6oMxU2Ot7enYiyOZXfe51gW88lOnYau20s-t9FURFJOSFBHTzZNNlVGMUlET1pOODIyVEdUSC4u)
+- Please complete the form at [This link](https://forms.office.com/Pages/ResponsePage.aspx?id=kx3uZ6oMxU2Ot7enYiyOZXfe51gW88lOnYau20s-t9FUMkIyOUo1RUFOMkk2VURORVM3QTdRNEYxVy4u)
+- Responses can be found [here](https://opusrs.sharepoint.com/:x:/r/sites/Nologyio/_layouts/15/Doc.aspx?sourcedoc=%7B7892E3FC-223C-4243-9419-4ECF958E4B7B%7D&file=Applicant%20Assessment%20Responses.xlsx&action=default&mobileredirect=true)
